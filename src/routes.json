@@ -1,0 +1,27 @@
+[
+  {
+    "method": "PUT",
+    "path": "/users/:id",
+    "name": "controllers/user.Update"
+  },
+  {
+    "method": "DELETE",
+    "path": "/users/:id",
+    "name": "controllers/user.Delete"
+  },
+  {
+    "method": "GET",
+    "path": "/users",
+    "name": "controllers/user.Index"
+  },
+  {
+    "method": "POST",
+    "path": "/users",
+    "name": "controllers/user.Create"
+  },
+  {
+    "method": "GET",
+    "path": "/users/:id",
+    "name": "controllers/user.Show"
+  }
+]

@@ -1,0 +1,7 @@
+{
+    "DbHost": "localhost",
+    "DbPort": 3306,
+    "DbName": "test",
+    "DbUsername": "test",
+    "DbPassword": "test"
+}
